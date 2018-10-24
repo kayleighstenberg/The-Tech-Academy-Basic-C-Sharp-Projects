@@ -4,33 +4,50 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace The_Tech_Academy_Daily_Report
+namespace MathExercise1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("The Tech Academy");
-            Console.WriteLine("Student Daily Report");
-            Console.WriteLine("What course are you on?");
-            string yourCourse = Console.ReadLine();
-            Console.WriteLine("What page number?");
-            int intPageNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Do you need help with anything? Please answer 'true' or 'false'.");
-            string needsHelp = Console.ReadLine();
-            Console.WriteLine("Were any positive experiences you'd like to share? Please give specifics.");
-            Console.ReadLine();
-            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
-            Console.ReadLine();
-            Console.WriteLine("How many hours did you study today?");
-            int hoursStudied = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+
+            Console.WriteLine("Please enter a whole number");
+            uint number1 = Convert.ToUInt32(Console.ReadLine());
+            uint product = number1 * 50;
+            Console.WriteLine(product);
             Console.ReadLine();
 
-       
-   
-        
+            Console.WriteLine("Please enter another whole number");
+            uint number2 = Convert.ToUInt32(Console.ReadLine());
+            uint total = number2 + 25;
+            Console.WriteLine(total);
+            Console.ReadLine();
+
+            Console.WriteLine("Please enter another whole number");
+            double number3 = Convert.ToDouble(Console.ReadLine());
+            double quotient = number3 / 12.5;
+            Console.WriteLine(quotient);
+            Console.ReadLine();
+
+            Console.WriteLine("Please enter another whole number");
+            uint number4 = Convert.ToUInt32(Console.ReadLine());
+            bool trueOrFalse = number4 > 50;
+            Console.WriteLine(trueOrFalse.ToString());
+            Console.ReadLine();
+
+            Console.WriteLine("And finally, please enter another whole number");
+            double number5 = Convert.ToDouble(Console.ReadLine());
+            double quotient2 = number5 / 7.0;
+            Console.WriteLine(quotient2);
+            double remainder = quotient2 % 2;
+            Console.WriteLine(remainder);
+            Console.ReadLine();
+
+
+
+
+
         }
     }
 }
