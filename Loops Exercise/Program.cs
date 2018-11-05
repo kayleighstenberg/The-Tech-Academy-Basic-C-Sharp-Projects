@@ -12,7 +12,7 @@ namespace Loops_Exercise
         {
             Console.WriteLine("Pick a color");
             string color = Convert.ToString(Console.ReadLine());
-            bool isPicked = color == "blue";
+            bool isPicked = color == "true";
 
             while (!isPicked) 
             {
