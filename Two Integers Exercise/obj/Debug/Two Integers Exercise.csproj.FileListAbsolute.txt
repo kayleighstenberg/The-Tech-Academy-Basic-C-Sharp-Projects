@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\bin\Debug\Two Integers Exercise.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\bin\Debug\Two Integers Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\bin\Debug\Two Integers Exercise.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\obj\Debug\Two Integers Exercise.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\obj\Debug\Two Integers Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\obj\Debug\Two Integers Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Two Integers Exercise\Two Integers Exercise\obj\Debug\Two Integers Exercise.pdb
