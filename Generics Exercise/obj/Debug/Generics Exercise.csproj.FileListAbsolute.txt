@@ -1,7 +1,0 @@
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\obj\Debug\Generics Exercise.csprojAssemblyReference.cache
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\obj\Debug\Generics Exercise.csproj.CoreCompileInputs.cache
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\bin\Debug\Generics Exercise.exe.config
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\bin\Debug\Generics Exercise.exe
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\bin\Debug\Generics Exercise.pdb
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\obj\Debug\Generics Exercise.exe
-C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Generics Exercise\Generics Exercise\obj\Debug\Generics Exercise.pdb
