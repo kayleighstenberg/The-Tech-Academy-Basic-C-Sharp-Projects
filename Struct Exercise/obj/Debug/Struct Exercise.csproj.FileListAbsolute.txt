@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\bin\Debug\Struct Exercise.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\bin\Debug\Struct Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\bin\Debug\Struct Exercise.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\obj\Debug\Struct Exercise.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\obj\Debug\Struct Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\obj\Debug\Struct Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Struct Exercise\Struct Exercise\obj\Debug\Struct Exercise.pdb
