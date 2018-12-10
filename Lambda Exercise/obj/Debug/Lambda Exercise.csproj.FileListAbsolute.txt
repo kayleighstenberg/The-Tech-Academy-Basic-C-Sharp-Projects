@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\bin\Debug\Lambda Exercise.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\bin\Debug\Lambda Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\bin\Debug\Lambda Exercise.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\obj\Debug\Lambda Exercise.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\obj\Debug\Lambda Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\obj\Debug\Lambda Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Exercise\Lambda Exercise\obj\Debug\Lambda Exercise.pdb
