@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\bin\Debug\File IO Exercise.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\bin\Debug\File IO Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\bin\Debug\File IO Exercise.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\obj\Debug\File IO Exercise.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\obj\Debug\File IO Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\obj\Debug\File IO Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\File IO Exercise\File IO Exercise\obj\Debug\File IO Exercise.pdb
