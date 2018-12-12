@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\bin\Debug\Constant, Var Exercise.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\bin\Debug\Constant, Var Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\bin\Debug\Constant, Var Exercise.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\obj\Debug\Constant, Var Exercise.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\obj\Debug\Constant, Var Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\obj\Debug\Constant, Var Exercise.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Constant, Var Exercise\Constant, Var Exercise\obj\Debug\Constant, Var Exercise.pdb
