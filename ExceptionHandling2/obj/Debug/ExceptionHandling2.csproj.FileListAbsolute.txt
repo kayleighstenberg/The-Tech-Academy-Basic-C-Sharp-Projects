@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe.config
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.pdb
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.exe
+C:\Users\Student\Desktop\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.pdb
